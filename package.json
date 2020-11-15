@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-dev-ed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "author": "Dave Inoc",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
